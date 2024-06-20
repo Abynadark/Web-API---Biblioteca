@@ -23,3 +23,4 @@ categoria.
 - Registro de Atividades: Registro de todas as atividades de empréstimo e
 devolução.
 
+Obs: No projeto também foi adicionado um modelo lógico do banco de dados SQL.
